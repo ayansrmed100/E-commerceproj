@@ -1,2 +1,3 @@
 # E-commerceproj
-This is my first repo on github
+This is my first repository .
+Author - Ayan khan
