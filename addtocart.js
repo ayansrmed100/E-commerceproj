@@ -77,8 +77,8 @@ const product = [
                         <div class='row-img'>
                         <img class='rowimg' src=${image}>
                         </div>
-                        <p style='font-size:12px;'>${title}</p>
-                        <h2 style='font-size:15px;'>$ ${price}.00</h2>`+
+                        <p class='cart-item-p'>${title}</p>
+                        <h2 class='cart-item-h2'>$ ${price}.00</h2>`+
                         "<i class='fa-solid fa-trash' onclick='delElement("+ (j++) +")'></i></div>"  
                     );
                 }).join('');
